@@ -75,10 +75,6 @@ After running the last command, Vite will start a local development server. Open
 
 ### Other Scripts
 
-* **Production Build**: To create an optimized version of the application for deployment.
-    ```bash
-    npm run build
-    ```
 * **Preview Build**: To test the production build locally.
     ```bash
     npm run preview
